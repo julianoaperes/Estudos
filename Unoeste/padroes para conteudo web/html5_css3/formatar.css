@@ -1,0 +1,30 @@
+/*Arquivo CSS importado*/
+td,th{border-top:3px solid red;
+      border-bottom:3px dotted blue;
+      border-left:3px dashed orange;
+      border-right:3px double magenta;
+      background-color:aqua;}
+.lista1{list-style-type:lower-alpha;}
+/*decimal alpha roman
+lower ou upper*/
+.lista2{list-style-type:square;}
+/*square disc ou circle*/
+.menu li{background-color:gray;
+         color:white;
+         display:inline;
+         padding-left:50px;
+         padding-right:50px;}
+*{font-family:verdana;
+  font-size:25px;}
+.alinha{width:650px;
+        margin:0 auto;
+        text-align:center;}
+.vertical{vertical-align:top;}
+.transp{opacity:0.5;}
+.fundo{background-image: url("css.jpg");
+       background-repeat:repeat-y;
+       background-position:right;
+       background-attachment:fixed;}
+/*repeat repeat-x repeat-y
+  left right center ou coord horizontal e vertical
+  scroll ou fixed*/

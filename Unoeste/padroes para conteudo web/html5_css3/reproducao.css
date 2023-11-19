@@ -1,0 +1,64 @@
+* {
+    font-family: Verdana;
+    font-size: 25px;
+}
+
+.table {
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.caption {
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.tfoot {
+    text-align: center;
+    font-style: italic;
+    font-size: x-small;
+}
+
+td,
+th {
+    border-style: solid ridge;
+}
+
+.lista1 {
+    list-style-type: lower-alpha;
+}
+
+.lista2 {
+    list-style-type: square;
+}
+
+.menu li {
+    background-color: gray;
+    color: white;
+    display: inline;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.alinha {
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vertical {
+    vertical-align: middle;
+}
+
+.transp {
+    opacity: 0.5;
+}
+
+.fundo {
+    background-image: url("css.jpg");
+    background-repeat: repeat-y;
+    background-position: right;
+    background-attachment: fixed;
+}

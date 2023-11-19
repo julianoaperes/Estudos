@@ -1,0 +1,274 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+Body {
+    background-color: #4f9b312b;
+    width: 1000px;
+    margin: auto;
+}
+
+.divHead {
+    background-color: #00501F;
+    height: 100px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 8px 8px 0px 0px;
+    box-shadow: 10px 5px 30px #284d2685;
+}
+
+.divImgHeadUnoeste {
+    float: left;
+}
+
+.divImgHeadFiip {
+    float: right;
+}
+
+.mainForm {
+    background-color: #4f9b312b;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 10px 5px 30px rgba(0, 0, 0, 0.444);
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.3em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 0.8em;
+    margin-bottom: 5px;
+}
+
+hr {
+    border-style: solid;
+    border-color: #2e591c2f;
+}
+
+a:link {
+    text-decoration: none;
+
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5EAE58;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: none;
+    color: none;
+}
+
+.labelForm {
+    font-size: 0.6em;
+}
+
+.inputFormName {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 300px;
+    height: 13px;
+    margin-right: 10px;
+}
+
+.inputFormPcd {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    font-size: 1em;
+    width: 280px;
+    height: 50px;
+    margin-top: 8px;
+}
+
+
+.inputFormCpf {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 80px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputDateNasc {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 97px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputCel {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 105px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputPais {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 105px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputEstado {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 105px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputCidade {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 195px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputBairro {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 195px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputRua {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 195px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputNum {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 195px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputCep {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 85px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputEmail {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 125px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputRa {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 140px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.inputPolo {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    width: 185px;
+    height: 13px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.selectEnsino {
+    background-color: #e3eeddf8;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+    font-size: 1em;
+    width: 70px;
+
+}
+
+.inputCheckBoxCurso {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #b7bfb2;
+}
+
+.divFoot {
+    background-color: #00501F;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 0px 0px 8px 8px;
+    box-shadow: 10px 5px 30px #284d2685;
+}
